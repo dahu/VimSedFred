@@ -1,0 +1,10 @@
+VimSedFred
+----------
+
+__Kickin' it sed style in the Vim side of town.__
+
+Sed and Vim share ancestry and that is visible in many places. Some
+things are different though and that's what this little space is
+all about: showing how sed spells are cast in the land of Vim.
+
+Examples taken from http://www.grymoire.com/unix/sed.html[]
